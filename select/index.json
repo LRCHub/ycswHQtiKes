@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "あこがれ",
+  "base_artist": "4na",
+  "createdAt": "2026-02-10T14:50:19.654814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あこがれ",
+      "artist": "Taeko Onuki",
+      "has_synced": true,
+      "path": "select/01_あこがれ_Taeko_Onuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あこがれ",
+      "artist": "Taeko Ohnuki",
+      "has_synced": true,
+      "path": "select/02_あこがれ_Taeko_Ohnuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あこがれ",
+      "artist": "根岸貴幸",
+      "has_synced": false,
+      "path": "select/03_あこがれ_根岸貴幸.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Akogare (あこがれ)",
+      "artist": "Taeko Ohnuki",
+      "has_synced": true,
+      "path": "select/04_Akogare_(あこがれ)_Taeko_Ohnuki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あこがれ",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": false,
+      "path": "select/05_あこがれ_Kazuyoshi_Saito.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あこがれ",
+      "artist": "mitsume",
+      "has_synced": true,
+      "path": "select/06_あこがれ_mitsume.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あこがれ",
+      "artist": "チャクラ",
+      "has_synced": false,
+      "path": "select/07_あこがれ_チャクラ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あこがれ",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/08_あこがれ_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "あこがれ",
+      "artist": "Onuki, Taeko",
+      "has_synced": true,
+      "path": "select/09_あこがれ_Onuki,_Taeko.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "あこがれ",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/10_あこがれ_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "あこがれ - Remastered 2018",
+      "artist": "Yosui Inoue",
+      "has_synced": true,
+      "path": "select/11_あこがれ_-_Remastered_2018_Yosui_Inoue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あこがれ",
+      "artist": "4na",
+      "has_synced": false,
+      "path": "select/pl_01_あこがれ_4na.txt"
+    }
+  ]
+}
